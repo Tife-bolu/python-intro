@@ -1,0 +1,5 @@
+print("your first name")
+firstname=input()
+print("your last name")
+surname=input()
+print("details" ,firstname ,surname)
